@@ -15,9 +15,10 @@ Mostly done but still work in progress.
 Screws to mount the Dock to the Gantry mount:
 2x M3x10
 
+![PIC](Images/micron_pic01.png)
 
-![PIC](Images/pic2.png)
+![PIC](Images/micron_pic02.png)
 
+![PIC](Images/micron_pic03.png)
 
-![PIC](Images/pic1.png)
-
+![PIC](Images/micron_pic04.png)
