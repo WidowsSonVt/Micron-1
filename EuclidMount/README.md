@@ -9,8 +9,8 @@ To release the probe, you approach the dock from the side and release going forw
 
 All STL' on Printables, link in the STL folder.
 
-Gantry dock mount is the same, but use the 1 or 2mm spacer included, probe dock and X carriage mount is new design.
-Mostly done but still work in progress.
+Gantry dock mount is the same, probe dock and X carriage mount is new design.
+I've created 1 and 2mm spacers between dock and gantry mount, I did not need it for my 120mm build
 
 Screws to mount the Dock to the Gantry mount:
 2x M3x6-10 dependend on spacers you use.
