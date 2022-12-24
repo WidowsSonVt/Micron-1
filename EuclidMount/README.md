@@ -1,10 +1,10 @@
 # Euclid mount for Micron
 
-## Attention: 
-you can't use the same script as Klicky probe, to catch the Euclid probe, you need to approach the dock from the front and do it slow on the last
-10-20mm down, don't let the magnets "bang" as you may break them.
-To release the probe, you approach the dock from the side and release going forwards.
+You can use the same script as Klicky probe. 
 There is section in the Klicky macro for Euclid, woks w/o any issues.
+To catch the Euclid probe, you just need to approach the dock from the front.
+To release the probe, you approach the dock from the side and release going forwards.
+
 
 
 All STL' on Printables, link in the STL folder.
