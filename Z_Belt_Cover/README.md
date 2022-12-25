@@ -3,4 +3,3 @@ new Z Belt cover to minimize the possibility of filament pieces to fall in to th
 Two versions, dualt color/dual body and solid.
 
 ![PIC](Images/cover_2.png)
-![PIC](Images/cover_1.png)
