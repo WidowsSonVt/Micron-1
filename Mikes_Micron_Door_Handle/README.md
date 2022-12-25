@@ -6,3 +6,4 @@ You will need:
 
 
 ![PIC](Images/door_handle.png)
+![PIC](Images/door_handle_2.png)
